@@ -1,5 +1,6 @@
 ## Color Resources 
-Color picker: https://www.w3schools.com/colors/colors_picker.asp \
+Color picker: https://www.w3schools.com/colors/colors_picker.asp 
+
 Palette generators: 
 * https://coolors.co/app 
 * http://paletton.com/
