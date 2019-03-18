@@ -1,5 +1,8 @@
+##Color Resources##
 Color picker: https://www.w3schools.com/colors/colors_picker.asp
+Palette generators: 
+  https://coolors.co/app
+  http://paletton.com/
 
-Palette generator: https://coolors.co/app
-
+##Starter Code##
 Create Your Own Mondrian: https://codepen.io/DisplacedTexan/pen/KEQoNe?editors=1100
