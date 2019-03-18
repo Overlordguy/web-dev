@@ -1,5 +1,5 @@
 ## Bootstrap Resources
-Examples: https://getbootstrap.com/docs/4.3/examples/
+Examples: https://getbootstrap.com/docs/4.3/examples/ \
 Components: https://getbootstrap.com/docs/4.3/components/alerts/
 
 ## Starter Code
