@@ -1,3 +1,6 @@
-Fan page: https://codepen.io/DisplacedTexan/pen/aMLZrE
+## Resources
+Color Resources: https://www.w3schools.com/colors/colors_names.asp \
+Google fonts: https://fonts.google.com/
 
-Color Resources: https://www.w3schools.com/colors/colors_names.asp
+## Starter Code
+Fan page: https://codepen.io/DisplacedTexan/pen/aMLZrE
