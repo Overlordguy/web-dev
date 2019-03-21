@@ -11,6 +11,6 @@ drawCats(10); // you can change 10 to any number!
 ```
 
 Section | URL
-_______ | _______
+------- | -------
 Variables | https://jsbin.com/niwopan/edit?js,console
 Functions | https://jsbin.com/kefavem/edit?js,console
