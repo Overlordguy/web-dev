@@ -14,4 +14,5 @@ Section | URL
 ------- | -------
 Variables | https://jsbin.com/niwopan/edit?js,console
 Operating on Variables | https://jsbin.com/begabup/edit?js,console
+Template Literals | https://jsbin.com/tilijad/2/edit?js,console
 Functions | https://jsbin.com/kefavem/edit?js,console
