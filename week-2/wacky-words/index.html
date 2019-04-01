@@ -1,0 +1,98 @@
+<body>
+    <div class="container">
+      <div id="nameInput">
+        <label for="name">Enter Your Name:</label>
+        <input type="text" id="name" />
+        <button class="btn btn-primary" onClick="getName();">Submit</button>
+      </div>
+      <h2 id="greeting"></h2>
+      <div id="instructions" class="hidden">
+        <h3>I'll ask you for some word types. Ready?</h3>
+        <button
+          class="btn btn-primary"
+          onClick="showInputs('nouns', 'instructions');"
+        >
+          Ready!
+        </button>
+      </div>
+      <div id="nouns" class="hidden">
+        <h3>First, pick some Nouns</h3>
+        <div class="d-flex">
+          <input type="text" value="" id="noun1" />
+          <input type="text" value="" id="noun2" />
+          <input type="text" value="" id="noun3" />
+          <input type="text" value="" id="noun4" />
+          <input type="text" value="" id="noun5" />
+          <input type="text" value="" id="noun6" />
+          <input type="text" value="" id="noun7" />
+          <input type="text" value="" id="noun8" />
+          <input type="text" value="" id="noun9" />
+          <input type="text" value="" id="noun10" />
+          <input type="text" value="" id="noun11" />
+          <input type="text" value="" id="noun12" />
+          <input type="text" value="" id="noun13" />
+          <input type="text" value="" id="noun14" />
+          <input type="text" value="" id="noun15" />
+        </div>
+        <button
+          class="btn btn-primary"
+          onClick="showInputs('adjectives','nouns');"
+        >
+          Next
+        </button>
+      </div>
+      <div id="adjectives" class="hidden">
+        <h3>Now, pick some Adjectives</h3>
+        <div class="d-flex">
+          <input type="text" value="" id="adj1" />
+          <input type="text" value="" id="adj2" />
+          <input type="text" value="" id="adj3" />
+          <input type="text" value="" id="adj4" />
+          <input type="text" value="" id="adj5" />
+          <input type="text" value="" id="adj6" />
+        </div>
+        <button
+          class="btn btn-primary"
+          onClick="showInputs('verbs','adjectives');"
+        >
+          Next
+        </button>
+      </div>
+      <div id="verbs" class="hidden">
+        <h3>Next, some Verbs</h3>
+        <h4>-ing Verbs</h4>
+        <div class="d-flex">
+          <input type="text" value="" id="verb1" />
+          <input type="text" value="" id="verb2" />
+          <input type="text" value="" id="verb5" />
+        </div>
+        <h4>Present Tense Verbs</h4>
+        <div id="present-tense-verbs" class="d-flex">
+          <input type="text" value="" id="verb3" />
+          <input type="text" value="" id="verb4" />
+          <input type="text" value="" id="verb6" />
+        </div>
+        <button
+          class="btn btn-primary"
+          onClick="showInputs('numbers','verbs');"
+        >
+          Next
+        </button>
+      </div>
+      <div id="numbers" class="hidden">
+        <h3>Finally some Numbers</h3>
+        <div id="numbers" class="d-flex">
+          <input type="text" value="" id="num1" />
+          <input type="text" value="" id="num2" />
+          <input type="text" value="" id="num3" />
+          <input type="text" value="" id="num4" />
+          <input type="text" value="" id="num5" />
+          <input type="text" value="" id="num6" />
+        </div>
+        <button class="btn btn-primary" onClick="showSayings(null, 'nums');">
+          Next
+        </button>
+      </div>
+      <div id="famousSayings"></div>
+    </div>
+  </body>
