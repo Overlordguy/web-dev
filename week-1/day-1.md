@@ -1,5 +1,5 @@
 ## Resources
-Color Resources: https://www.w3schools.com/colors/colors_names.asp \
+Color Names: https://www.w3schools.com/colors/colors_names.asp \
 Google fonts: https://fonts.google.com/
 
 ## Starter Code
