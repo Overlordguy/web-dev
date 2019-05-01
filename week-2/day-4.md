@@ -1,6 +1,6 @@
 Section | URL
 ------- | -------
-Arrays | url
+Arrays | https://jsbin.com/gexorudiwa/2/edit?js,console
 While Loops | url
 For Loops | url
 
