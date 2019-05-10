@@ -1,5 +1,6 @@
 ## Resources
-Color Names: https://www.w3schools.com/colors/colors_names.asp \
+Color names: https://www.w3schools.com/colors/colors_names.asp
+Hex color codes: www.w3schools.com/colors/colors_picker.asp
 Google fonts: https://fonts.google.com/
 
 ## Starter Code
