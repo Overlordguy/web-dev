@@ -8,5 +8,5 @@
 
 ## Starter Code
 
-Wacky Words: https://codepen.io/DisplacedTexan/pen/OGLWre
+Wacky Words: https://codepen.io/DisplacedTexan/pen/OGLWre \
 Mastermind: https://codepen.io/DisplacedTexan/pen/ZZOLjv
