@@ -1,6 +1,7 @@
 ## Layout Resources
 
-CSS Grid Generator: https://grid.layoutit.com/
+CSS Grid Generator: https://grid.layoutit.com/ \
+Marvel Wireframing Tool: https://marvelapp.com
 
 ## Poster Code
 
