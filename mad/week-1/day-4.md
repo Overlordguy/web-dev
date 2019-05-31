@@ -9,7 +9,8 @@ Bootstrap portfolio: https://codepen.io/DisplacedTexan/pen/QoQxxv?editors=1100
 
 ## Text editor
 
-Atom docs: https://flight-manual.atom.io/
+Atom docs: https://flight-manual.atom.io/ \
+Keyboard shortcuts: https://github.com/nwinkler/atom-keyboard-shortcuts
 
 ## HTML Document Resources
 
