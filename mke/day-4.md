@@ -11,3 +11,6 @@
 
 Big Text CodePen: https://codepen.io/DisplacedTexan/pen/mYmRWz?editors=1100 \
 Rainbow Circle: https://codepen.io/DisplacedTexan/pen/rgmwLL?editors=0100 \
+
+## HTML Exercise
+Class and Id Exercise: https://codepen.io/TheChronicMonster/pen/jjVKzG
