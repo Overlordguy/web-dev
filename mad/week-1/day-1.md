@@ -7,3 +7,6 @@ Google fonts: https://fonts.google.com/
 ## Starter Code
 
 Fan page: https://codepen.io/DisplacedTexan/pen/aMLZrE?editors=1000
+
+## HTML Exercise
+Class and Id Exercise: https://codepen.io/TheChronicMonster/pen/jjVKzG
